@@ -383,7 +383,7 @@ header.masthead .intro-text .intro-heading {
   width: 2px;
   margin-left: -1.5px;
   content: '';
-  background-color: #f1f1f1
+  background-color: #90D9E2
 }
 
 .timeline>li {
@@ -432,9 +432,9 @@ header.masthead .intro-text .intro-heading {
   margin-left: 0;
   text-align: center;
   color: #fff;
-  border: 7px solid #f1f1f1;
+  border: 7px solid #90D9E2;
   border-radius: 100%;
-  background-color: #fed136
+  background-color: #187D91
 }
 
 .timeline>li .timeline-image h4 {
