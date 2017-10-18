@@ -640,7 +640,7 @@ section#contact .text-danger {
 }
 
 footer {
-  background-color: #fed136;
+  background-color: inherit;
   padding-bottom: 25px 0;
   text-align: center
 }
